@@ -11,12 +11,6 @@ A conversational to-do list manager powered by the OpenAI Agents SDK with Gemini
 3. [Tech Stack](#tech-stack)  
 4. [Prerequisites](#prerequisites)  
 5. [Quick Start](#quick-start)  
-6. [Usage Examples](#usage-examples)  
-7. [Project Structure](#project-structure)  
-8. [Roadmap](#roadmap)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-
 ---
 
 ## 📌 About the Project
@@ -63,5 +57,5 @@ Ensure you have:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your_username/hermes-todo-agent.git
+   https://github.com/saadahmedacademy/Todo_Meneger_Agent_By_Using_Gemini.git
    cd hermes-todo-agent
